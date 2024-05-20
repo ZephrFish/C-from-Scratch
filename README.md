@@ -1,12 +1,15 @@
 # C from Scratch
 
-In March 2023, I decided to learn C from scratch. Throughout this journey, I used a variety of resources—some were beneficial, while others not as much. I have compiled a list of the most helpful resources into a roadmap for anyone who wishes to do the same. It should save you some time sifting through mediocre materials.
+In March 2023, I decided to learn C from scratch. Throughout this journey, I used various resources—some were beneficial, while others were not as much. I have compiled a list of the most helpful resources into a roadmap for anyone who wishes to do the same. It should save you some time sifting through mediocre materials.
 
 Once I felt comfortable with C, I went lower—specifically, x86-64 Assembly and x86-64 OS Internals. I have included the resources I used for these topics as well.
 
 Note, this is not a 'learn C in 10 hours' roadmap. A more realistic estimate would be to add a couple more zeros. 
 
 # C
+### *ZF addition* [Learn C](https://www.learn-c.org/)
+If you're anything like me, interactive learning is best suited for how you pick stuff up, aka hands-on keyboard learning. The site is an interactive walkthrough similar to the older days of code academy. 
+
 ### [CS50 Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 If you have not had any formal education in computer science, I recommend to start with the 2023 version of CS50 (that's the one I completed, so I can only recommend that). Start at **week 0** and continue through to **week 6**. For each week, make sure to watch the lecture, section, shorts, and complete the problem sets.
